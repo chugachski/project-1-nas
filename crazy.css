@@ -1,0 +1,62 @@
+body {
+  font-size: 20px;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+div {
+  width: 90px;
+  height: 160px;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.b-hand {
+  background: lightblue;
+  margin-top: 20px;
+}
+
+.r-hand {
+  background: lightpink;
+}
+
+#face-down {
+  background: darkblue;
+  color: lightgrey;
+  margin-left: 200px;
+}
+
+#current-card {
+  background: lightgrey;
+  margin-right: 200px;
+}
+
+#turn {
+  margin: 20px auto;
+  background: lightgrey;
+  width: 190px;
+  height: 40px;
+  text-align: center;
+}
+
+.button {
+  margin: 70px;
+  background: teal;
+  border: none;
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 32px;
+}
+
+
+
+
+
